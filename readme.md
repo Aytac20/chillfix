@@ -1,4 +1,11 @@
-# ChillFix
-![image](https://github.com/user-attachments/assets/627c9e5b-2b10-4476-a2e9-7567128261a7)
+# ChillFix 🎬
+![Uploading image.png…]()
 
-My first project
+ChillFix is my first movie tracking app built with React. It allows users to browse movies, mark their favorites, and keep track of what they've watched.
+## Features
+- 🔍 Browse and search movies using the TMDB API
+- 💖 Add movies to Favorites
+- ✅ Mark movies as Watched
+- 🔐 User authentication with Firebase
+- ☁️ Save data with Firestore
+- 📱 Responsive design
