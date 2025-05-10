@@ -3,7 +3,7 @@
 ChillFix is my first movie tracking app built with React. It allows users to browse movies, mark their favorites, and keep track of what they've watched.
 
 ## Visit the website
-Check out the live version of ChillFix here:https://<Aytac20>.github.io/<chillfix>/
+Check out the live version of ChillFix here:(https://chillfix.netlify.app/)
 ## 📸 Screenshots
 
 ### Desktop View
