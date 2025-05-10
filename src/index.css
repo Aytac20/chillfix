@@ -1,0 +1,53 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Poppins&family=Montserrat&family=Staatliches&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+body {
+  font-family: "Rubik", Arial, Helvetica, sans-serif;
+  background-color: #1d1d2a;
+  color: #a0a0a5;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+input {
+  font-size: 1.5rem;
+  outline: none;
+  color: rgb(190, 190, 190);
+  letter-spacing: 0.1rem;
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+input::placeholder {
+  font-size: 1.4rem;
+  color: rgb(190, 190, 190);
+  letter-spacing: 0.2rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+a {
+  text-decoration: none;
+  color: #d4d4d4;
+}
+
+ul {
+  list-style: none;
+}
+button {
+  outline: none;
+  cursor: pointer;
+}

@@ -1,0 +1,29 @@
+.heroContainer {
+  width: 100%;
+  position: relative;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gradientOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(
+    to bottom,
+    transparent 0%,
+    transparent 10%,
+    rgba(29, 28, 44, 0.4) 85%,
+    rgba(29, 28, 44, 0.8) 95%,
+    rgb(29, 28, 44) 100%
+  );
+  pointer-events: none;
+  backdrop-filter: blur(0.5px);
+}
