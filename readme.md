@@ -7,10 +7,12 @@ Check out the live version of ChillFix here:https://<Aytac20>.github.io/<chillfi
 ## 📸 Screenshots
 
 ### Desktop View
-<img src="https://github.com/user-attachments/assets/ce05fd2d-c49c-4da3-b1f0-993c18fe347c" alt="Desktop View" style="width: 100%; height: auto;"/>
+
+![Desktop view](https://github.com/user-attachments/assets/9979e24a-1d05-4a57-8405-36ec1dbdbcb1)
 
 ### Mobile View
-<img src="https://github.com/user-attachments/assets/bc264b4c-6a6d-40b5-8ede-91bfcf2937b7" alt="Mobile View" style="width: 100%; height: auto;"/>
+![Mobile view](https://github.com/user-attachments/assets/523b40a2-2375-4dd7-9d7c-ad2de9a6b339)
+
 
 ## Features
 
@@ -30,12 +32,12 @@ Secure login and sign-up functionality using Firebase, keeping your data safe an
 All your data is safely stored with Firestore, so you don’t lose your progress across devices.
 
 ## Built With
--✅**React**
--✅**React Router**
--✅**React Bootstrap** for styling
--✅**React Query** for data fetching
--✅**Redux Toolkit** for state management
--✅**Tailwind CSS** for utility-first CSS styling
 
+- ✅ **React**
+- ✅ **React Router**
+- ✅ **React Bootstrap** for styling
+- ✅ **React Query** for data fetching
+- ✅ **Redux Toolkit** for state management
+- ✅ **Tailwind CSS** for utility-first CSS styling
 
 
